@@ -13,7 +13,7 @@
         </property>
 
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">2006</property>
+        <property name="hibernate.connection.password">Ias2028-29</property>
 
         <!-- Hibernate Settings -->
         <property name="hibernate.dialect">
